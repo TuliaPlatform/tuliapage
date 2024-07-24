@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tulia Protocol
 
-## Getting Started
+## Overview
+Tulia is a revolutionary peer-to-peer lending platform that offers users unparalleled control over their financial activities. Our platform allows users to create and manage their own lending pools, earning staking rewards while awaiting borrowers. This experimental protocol is designed to provide individual control and flexibility, but it is still in the testing phase.
 
-First, run the development server:
+## Important Notice
+**Do not use this protocol in production.** Tulia is currently experimental and not ready for production use. There are likely to be significant errors and the platform requires extensive testing and debugging.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Testnet Information
+Tulia is currently being tested on multiple testnets:
+- Binance Smart Chain (BSC) Testnet
+- Base Sepolia
+- Ethereum Holesky
+- Avalanche Fuji
+- Optimism Sepolia
+- Arbitrum Sepolia
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The testnet phase is crucial for identifying and resolving issues. We encourage users to participate in the testnet to help us improve the protocol.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
+- **Create Lending Pools:** Users can create their own lending pools with customizable terms.
+- **Earn Staking Rewards:** Capital in lending pools earns staking rewards while awaiting borrowers.
+- **Individual Control:** Users have full control over their lending pools and can manage loans independently.
+- **Airdrop is live:** Particiate earn airdrop rewards on airdrop.tulia.finance.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Contribution
+We welcome contributions from the community. Please fork the repository and submit a pull request with your changes.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contact
+For more information or support, please contact us at [tulia@tulia.dev](mailto:tulia@tulia.dev).
